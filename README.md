@@ -29,8 +29,8 @@ This project serves as a basic introduction to blockchain technology and Rust pr
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
-   cd <repository-folder>
+   git clone https://github.com/SuryodayDevHub/blockchain_challenge.git
+   cd blockchain_challenge
 2. **Install dependencies**:
    ```bash
    cargo build
