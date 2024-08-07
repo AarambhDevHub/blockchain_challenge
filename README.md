@@ -75,5 +75,10 @@ After running the application, the server will start on `http://127.0.0.1:8080`.
     ```
   - **Response**: JSON confirmation message.
 
+## Donations
+
+If you find this project useful and would like to support its continued development, you can make a donation via [Buy Me a Coffee](https://buymeacoffee.com/aarambhdevhub
+).
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
